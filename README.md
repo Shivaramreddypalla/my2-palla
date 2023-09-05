@@ -9,5 +9,11 @@
  2. Water Sports Adventure
  3. Cultural Exploration
 
+ * Fish Curry
+ * Chicken Biryani
+ * Prawns
+ * Fish Barbeque
+
+
 
 
