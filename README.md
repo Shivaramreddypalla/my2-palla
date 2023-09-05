@@ -34,3 +34,38 @@ Staying active and maintaining a healthy lifestyle is crucial. Here are four spo
 ### Inspirational Quotes by Scientists
 > 1. "The present is theirs; the future, for which I really worked, is mine." by _Nikola Tesla_
 > 2. "The true wealth of a nation consists not in the stored-up gold but in the intellectual and physical strength of its people." by _C.V. Raman_
+
+****
+
+### Code Fencing
+Sample Question :<https://stackoverflow.com/questions/6028128/how-do-i-rotate-text-in-css>
+
+~~~~
+
+.rotate {
+
+  transform: rotate(-90deg);
+
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(-90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg);
+
+  /* IE */
+  -ms-transform: rotate(-90deg);
+
+  /* Opera */
+  -o-transform: rotate(-90deg);
+
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+
+~~~~
+
+[Click here for Snippet Source]<https://css-tricks.com/snippets/css/text-rotation/>
