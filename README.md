@@ -22,7 +22,7 @@
 Staying active and maintaining a healthy lifestyle is crucial. Here are four sports that not only keep you fit but also provide numerous health benefits:
 
 | **Name of Sport** |     **Reason for Recommendation**                 | **Weekly Hours**|
-| ----------------- | ------------------------------------------------- | --------------- |
+| :---------------: | ------------------------------------------------- | :-------------: |
 |   Tennis          |   Boosts cardiovascular health                    |    8 Hours      |
 |   Swimming        |   full-body workout                               |    6 Hours      |
 |   Football        |   Improve cardiovascular fitness                  |    9 Hours      |
