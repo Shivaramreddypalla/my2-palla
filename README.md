@@ -38,7 +38,7 @@ Staying active and maintaining a healthy lifestyle is crucial. Here are four spo
 ****
 
 ### Code Fencing
-Sample Question :<https://stackoverflow.com/questions/6028128/how-do-i-rotate-text-in-css>
+Sample Question : <https://stackoverflow.com/questions/6028128/how-do-i-rotate-text-in-css>
 
 ~~~~
 
@@ -68,4 +68,4 @@ Sample Question :<https://stackoverflow.com/questions/6028128/how-do-i-rotate-te
 
 ~~~~
 
-[Click here for Snippet Source]<https://css-tricks.com/snippets/css/text-rotation/>
+[Click here for Snippet Source](https://css-tricks.com/snippets/css/text-rotation/)
