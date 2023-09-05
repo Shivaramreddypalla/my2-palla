@@ -29,4 +29,8 @@ Staying active and maintaining a healthy lifestyle is crucial. Here are four spo
 |   Cricket         |   promots overall physical and mental well-being  |    7 Hours      |
 
 
+****
 
+### Inspirational Quotes by Scientists
+> 1. "The present is theirs; the future, for which I really worked, is mine." by _Nikola Tesla_
+> 2. "The true wealth of a nation consists not in the stored-up gold but in the intellectual and physical strength of its people." by _C.V. Raman_
